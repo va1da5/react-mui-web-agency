@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+# Web Agency Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is meant for personal and educational purpose only. The solution is heavily inspired by [Web Agency Template](https://themeisle.com/themes/neve/starter-sites/?utm_source=themeisle&utm_medium=product&utm_campaign=themes/neve).
 
-## Available Scripts
+## Screenshots
 
-In the project directory, you can run:
+![Full layout](./web-agency.jpg)
 
-### `npm start`
+The implementation supports responsiveness.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img src="./web_agency_responsive.png" alt="Responsive" height="800px">
+<img src="./web_agency_responsive_menu.png" alt="Drawer menu" height="800px">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## References
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Material UI](https://mui.com/)
+- [Web Agency Template Demo](https://demosites.io/web-agency-gb/)
+- [Junior vs Senior React Folder Structure - How To Organize React Projects](https://www.youtube.com/watch?v=UUga4-z7b6s&list=PLQhjK2LZURLFS_pcWmhoaAvoIeRQxj4y1&index=6&ab_channel=WebDevSimplified)
+- [Auto Import of React Components in Visual Studio Code [closed]](https://stackoverflow.com/questions/60637561/auto-import-of-react-components-in-visual-studio-code)
